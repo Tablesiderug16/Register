@@ -20,6 +20,6 @@ If the user has an existing account, they can click on the “Have an account? L
 
 
 Note:
-Make sure that the background.png, openeye.png, and closedeye.png files are stored in the correct location (C:/Users/deanw/Documents/Register) as specified in the script.
+Make sure that the background.png, openeye.png, and closedeye.png files are stored in the correct location (C:/Users/user/Documents/filename) as specified in the script.
 The script checks whether the email address already exists in the database before inserting a new record.
 The age of the user is calculated based on the date of birth entered by the user.
